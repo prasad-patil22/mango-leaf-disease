@@ -17,8 +17,5 @@ An AI-powered web application that detects mango leaf diseases from uploaded ima
 - HTML/CSS
 - Render
 
-## Live Demo
-https://mango-leaf-disease-y2e6.onrender.com/
-
 ## Dataset
 Mango leaf disease image dataset containing healthy and diseased leaf samples for model training. Similar datasets commonly include diseases such as Anthracnose, Bacterial Canker, Cutting Weevil, Die Back, Gall Midge, Powdery Mildew, and Sooty Mould. :contentReference[oaicite:0]{index=0}
